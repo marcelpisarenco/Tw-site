@@ -1,0 +1,16 @@
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csprojResolveAssemblyReference.cache
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.pdb
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+H:\univer\PJ\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.dll
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Domain.pdb
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.dll
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\bin\Debug\eUseControl.Helpers.pdb
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csprojAssemblyReference.cache
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CoreCompileInputs.cache
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.csproj.CopyComplete
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.dll
+D:\University\Semestru 4\TW\TW site\Laborator 5\eUseControl\eUseControl.Domain\obj\Debug\eUseControl.Domain.pdb
